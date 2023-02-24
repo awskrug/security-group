@@ -27,7 +27,7 @@
 ## 2022년
 
 <details>
-  <summary>2022년 세번쨰 - <b>AWS SECURITY</b> 12월 17일</summary>
+  <summary>2022년 세번째 - <b>AWS SECURITY</b> 12월 17일</summary>
 
   ### `발표 내용`
    * Security Overview - 100 Level 의 AWS 환경의 보안 개념을 설명합니다.
@@ -50,7 +50,7 @@
   <summary>2022년 첫번째 - <b>AWS WAF</b> 3월 24일</summary>
 
   ### `발표 내용`
-    * AWS WAF V2의 구성 요소 / 설정 / Rule 검사로직 / 관리형 규칙 / Bot 탐지 기능 / 모니터링 및 리포팅 - 신은수(AWS)
+   * AWS WAF V2의 구성 요소 / 설정 / Rule 검사로직 / 관리형 규칙 / Bot 탐지 기능 / 모니터링 및 리포팅 - 신은수(AWS)
 
 </details>
 
