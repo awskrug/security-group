@@ -9,7 +9,7 @@
 
 ## 2023년
 <details>
-  <summary>2023년 두번째 - <b>AWS MACIE / NETWORK FIREWALL</b> 12월 22일</summary>
+  <summary>2023년 두번째 - <b>AWS MACIE / NETWORK FIREWALL</b> 2월 22일</summary>
 
   ### `발표 내용`
    * AWS MAICE - 천강민(카카오뱅크)
