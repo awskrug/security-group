@@ -8,6 +8,14 @@
 # Meetups
 
 ## 2023년
+
+<details>
+  <summary>2023년 세번째 - <b>Prowler Opensource</b> 3월 23일</summary>
+
+  ### `발표 내용`
+   * Prowler 오픈소스 소개 - 최재욱(AWS)
+</details>
+
 <details>
   <summary>2023년 두번째 - <b>AWS MACIE / NETWORK FIREWALL</b> 2월 22일</summary>
 
