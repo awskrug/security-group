@@ -10,7 +10,7 @@
 ## 2023년
 
 <details>
-  <summary>2023년 네번째 - <b>Prowler Opensource</b> 4월 20일</summary>
+  <summary>2023년 네번째 - <b>EKS Runtime Security</b> 4월 20일</summary>
 
   ### `발표 내용`
    * EKS Runtime Security - Falco를 중심으로 - 이지영(백패커)
