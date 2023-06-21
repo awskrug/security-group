@@ -10,6 +10,13 @@
 ## 2023년
 
 <details>
+  <summary>2023년 다섯번째 - <b>클라우드 환경에서의 컴플라이언스 표준화 사례</b> 5월 31일</summary>
+
+  ### `발표 내용`
+   * 클라우드 환경에서의 컴플라이언스 표준화 사례 - “NIST CSF” 를 활용한 클라우드에서의 표준 운영 방안 전략 - 장현호(AWS 보안소모임 오거나이저)
+</details>
+
+<details>
   <summary>2023년 네번째 - <b>EKS Runtime Security</b> 4월 20일</summary>
 
   ### `발표 내용`
