@@ -9,6 +9,14 @@
 
 ## 2023년
 
+
+<details>
+  <summary>2023년 일곱번째 - <b>참가자 사례발표 - Teleport / 망분리 </b> 6월 23일</summary>
+
+  ### `발표 내용`
+   * 2023 re:Inforce recap(w/ New Service Update) - 신은수(AWS)
+</details>
+
 <details>
   <summary>2023년 여섯번째 - <b>참가자 사례발표 - Teleport / 망분리 </b> 6월 23일</summary>
 
