@@ -9,9 +9,23 @@
 
 ## 2023년
 
+<details>
+  <summary>2023년 아홉번째 - <b>참가자 사례발표 - Security Hub </b> 9월 21일</summary>
+
+  ### `발표 내용`
+   * Security Hub 어디까지 써봤니?- 김대곤(AWS)
+</details>
 
 <details>
-  <summary>2023년 일곱번째 - <b>참가자 사례발표 - Teleport / 망분리 </b> 6월 23일</summary>
+  <summary>2023년 여덟번째 - <b>참가자 사례발표 - AWS Secret Manager & IAM Role Anywhere UseCase / OKTA </b> 8월 17일</summary>
+
+  ### `발표 내용`
+   * AWS Secret Manager & IAM Role Anywhere UseCase - 신동수(AWS)
+   * Okta로 AWS Multi-Account 환경 관리하기 - Tony (AWS 보안소모임 유저)
+</details>
+
+<details>
+  <summary>2023년 일곱번째 - <b>2023 re:Inforce recap(w/ New Service Update)</b> 7월 19일</summary>
 
   ### `발표 내용`
    * 2023 re:Inforce recap(w/ New Service Update) - 신은수(AWS)
