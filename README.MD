@@ -13,7 +13,7 @@
   <summary>2023년 열번째 - <b>AWS Security Lake & Next Step </b> 10월 20일</summary>
 
   ### `발표 내용`
-   * AWS 의 Security Lake 사용기를 통한 구성방안과 그 이후 고려사항 - 한현상(AWS)
+   * AWS 의 Security Lake의 구성방안과 그 이후 고려사항 - 한현상(AWS)
 </details>
 
 <details>
