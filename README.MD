@@ -9,6 +9,14 @@
 
 ## 2023년
 
+
+<details>
+  <summary>2023년 열한번째 - <b>AWS Security Lake & Next Step </b> 11월 16일</summary>
+
+  ### `발표 내용`
+   *  AWS 리소스 구성 시각화(AWS CONFIG / QUICKSIGHT 활용) - 한태경(AWS)
+</details>
+
 <details>
   <summary>2023년 열번째 - <b>AWS Security Lake & Next Step </b> 10월 20일</summary>
 
