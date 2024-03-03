@@ -7,8 +7,35 @@
 
 # Meetups
 
+
+## 2024년
+
+<details>
+  <summary>2024년 두번째 - <b>역할 부여 삼총사 IMDS, IRSA, Pod Identity 톺아보기 </b> 2월 15일</summary>
+
+  ### `발표 내용`
+   *  워크로드에 역할을 부여하는 삼총사 IMDS, IRSA, Pod Identity에 대해 깊이 알아보고 어떻게 보안을 적용하면 좋을지 살펴봅니다. - 천강민 (카카오뱅크)
+
+</details>
+
+<details>
+  <summary>2024년 첫번째 - <b>WS CI / CD에 Sonarqube SAST를 적용하기 핸즈온 </b> 1월 18일</summary>
+
+  ### `발표 내용`
+   *  AWS CI / CD에 Sonarqube SAST를 적용하기 핸즈온 - 이지영 (백패커)
+
+</details>
+
 ## 2023년
 
+
+<details>
+  <summary>2023년 열두번째 - <b>AWS WAFv2 최대한 활용하기</b> 12월 14일</summary>
+
+  ### `발표 내용`
+   *  AWS WAFv2 최대한 활용하기 - 씬커 (AWS 보안소모임 유저)
+
+</details>
 
 <details>
   <summary>2023년 열한번째 - <b>AWS Security Lake & Next Step </b> 11월 16일</summary>
