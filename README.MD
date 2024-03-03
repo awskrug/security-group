@@ -19,10 +19,10 @@
 </details>
 
 <details>
-  <summary>2024년 첫번째 - <b>WS CI / CD에 Sonarqube SAST를 적용하기 핸즈온 </b> 1월 18일</summary>
+  <summary>2024년 첫번째 - <b>WS CI / CD에 Sonarqube SAST 적용 핸즈온 </b> 1월 18일</summary>
 
   ### `발표 내용`
-   *  AWS CI / CD에 Sonarqube SAST를 적용하기 핸즈온 - 이지영 (백패커)
+   *  AWS CI / CD에 Sonarqube SAST 적용 핸즈온 - 이지영 (백패커)
 
 </details>
 
