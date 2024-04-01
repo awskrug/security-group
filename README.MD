@@ -11,6 +11,14 @@
 ## 2024년
 
 <details>
+  <summary>2024년 세번째 - <b>Credntial 살펴보기</b> 3월 28일</summary>
+
+  ### `발표 내용`
+   *  Credntial 살펴보기 - 김동현 (Cremit)
+
+</details>
+
+<details>
   <summary>2024년 두번째 - <b>역할 부여 삼총사 IMDS, IRSA, Pod Identity 톺아보기 </b> 2월 15일</summary>
 
   ### `발표 내용`
