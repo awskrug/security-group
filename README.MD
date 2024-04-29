@@ -11,6 +11,14 @@
 ## 2024년
 
 <details>
+  <summary>2024년 세번째 - <b>AWS Native Service를 이용한 보안 관제 방안 제시</b> 4월 25일</summary>
+
+  ### `발표 내용`
+   *  AWS Native Service를 이용한 보안 관제 방안 제시 - 정하윤 (AWS)
+
+</details>
+
+<details>
   <summary>2024년 세번째 - <b>Credntial 살펴보기</b> 3월 28일</summary>
 
   ### `발표 내용`
