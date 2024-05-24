@@ -1,4 +1,4 @@
-# AWSKRUG #Security 모임 
+0# AWSKRUG #Security 모임 
 
 <img src="https://github.com/awskrug/awskrug-digital-assets/raw/master/gurumi/security/security.png" width="400"/>
 
@@ -11,7 +11,15 @@
 ## 2024년
 
 <details>
-  <summary>2024년 세번째 - <b>AWS Native Service를 이용한 보안 관제 방안 제시</b> 4월 25일</summary>
+  <summary>2024년 다섯번째 - <b>AWS WAF 실전도입 101</b> 5월 23일</summary>
+
+  ### `발표 내용`
+   *  AWS WAF 실전도입 101 - 이지영 (백패커)
+
+</details>
+
+<details>
+  <summary>2024년 네번째 - <b>AWS Native Service를 이용한 보안 관제 방안 제시</b> 4월 25일</summary>
 
   ### `발표 내용`
    *  AWS Native Service를 이용한 보안 관제 방안 제시 - 정하윤 (AWS)
