@@ -1,4 +1,4 @@
-0# AWSKRUG #Security 모임 
+# AWSKRUG #Security 모임 
 
 <img src="https://github.com/awskrug/awskrug-digital-assets/raw/master/gurumi/security/security.png" width="400"/>
 
