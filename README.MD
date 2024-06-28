@@ -9,6 +9,14 @@
 
 
 ## 2024년
+<details>
+  <summary>2024년 여섯번째 - <b></b> 6월 27일</summary>
+
+  ### `발표 내용`
+   *  보안아키텍쳐자랑하기(이 3rd-party는 왜 필요할까) - 김진복 (flex)
+
+</details>
+
 
 <details>
   <summary>2024년 다섯번째 - <b>AWS WAF 실전도입 101</b> 5월 23일</summary>
