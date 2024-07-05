@@ -10,10 +10,13 @@
 
 ## 2024년
 <details>
-  <summary>2024년 여섯번째 - <b></b> 6월 27일</summary>
+  <summary>2024년 여섯번째 - 케이스 공유 <b></b> 6월 27일</summary>
 
   ### `발표 내용`
-   *  보안아키텍쳐자랑하기(이 3rd-party는 왜 필요할까) - 김진복 (flex)
+   *  이 3rd-party는 왜 필요할까 - 김진복 (flex)
+   *  SessionManager 로 서버 접근 솔루션 비용 절약하기 / RunCommand 로 취약점 점검 스크립트 실행하기 - 이금춘 (하나투어)
+   *  GWS 보안기능(CAA / GCPW) 소개 / 키클락 소개 & 키클락을 통한 AWS 접근관리 - 공지훈 (라포랩스)
+   *  CrowdStrike를 활용한 엔드포인트 보안 아키텍처  - 늑대양0 (AWSKRUG)
 
 </details>
 
