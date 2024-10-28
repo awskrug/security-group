@@ -53,10 +53,10 @@
 
 
 <details>
-  <summary>2024년 다섯번째 - <b>AWS WAF 실전도입 101</b> 5월 23일</summary>
+  <summary>2024년 다섯번째 - <b>AWS WAF 실전도입 101</b> 5월 23일</summary>
 
   ### `발표 내용`
-   *  AWS WAF 실전도입 101 - 이지영 (백패커)
+   *  AWS WAF 실전도입 101 - 이지영 (백패커)
 
 </details>
 
