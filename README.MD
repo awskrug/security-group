@@ -9,8 +9,39 @@
 
 
 ## 2024년
+
 <details>
-  <summary>2024년 여섯번째 - 케이스 공유 <b></b> 6월 27일</summary>
+  <summary>2024년 열번째 - <b>AWS DevOps 환경에서의 CICD Security Best Practice / 운영환경의 CCE 진단 자동화 </b> 9월 23일</summary>
+
+  ### `발표 내용`
+   *  AWS DevOps 환경에서의 CICD Security Best..? Practice의 사례 알아보기 - 화이트햇 스쿨 2기 INFINITE 팀
+   *  VPC Endpoint 를 활용한 세상 하찮은 cce 진단 자동화 사례 알아보기 - 권현준 (우아한 형제들)
+</details>
+
+<details>
+  <summary>2024년 아홉번째 -<b>왜 AWS Verify Access를 사용한 걸까?</b> 9월 23일</summary>
+
+  ### `발표 내용`
+   *  비싸지만 AWS Verify Access를 사용할 수밖에 없었던 비하인드 스토리 - 씬커 (AWSKRUG)
+</details>
+
+<details>
+  <summary>2024년 여덟번째 - <b>AWS Security Lake Use Case with GenAI</b> 8월 29일</summary>
+
+  ### `발표 내용`
+   *  AWS 환경에서의 보안 로그 통합의 Security Lake를 구성하고 정보보호 팀 에서의 활용방안으로의 GenAI 프로세스의 연결방안 알아보기 - 한현상(AWS)
+</details>
+
+<details>
+  <summary>2024년 일곱번째 - <b>IAM 핸즈온 워크샵</b> 7월 25일</summary>
+
+  ### `발표 내용`
+   *  IAM 핸즈온 워크샵 - 이지영 (백패커)
+
+</details>
+
+<details>
+  <summary>2024년 여섯번째 - <b>케이스 공유</b> 6월 27일</summary>
 
   ### `발표 내용`
    *  이 3rd-party는 왜 필요할까 - 김진복 (flex)
