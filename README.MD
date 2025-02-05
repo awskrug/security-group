@@ -7,11 +7,34 @@
 
 # Meetups
 
+## 2025년
+
+<details>
+  <summary>2025년 첫번째 - <b>LLM Application Security + Amazon Bedrock 맛보기 / AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스!</b> 1월 23일</summary>
+
+  ### `발표 내용`
+   *  LLM Application Security + Amazon Bedrock 맛보기 - 박현준 (네이버)
+   *  AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스! - 홍성진 (샌드버드)
+</details>
 
 ## 2024년
 
 <details>
-  <summary>2024년 열번째 - <b>AWS DevOps 환경에서의 CICD Security Best Practice / 운영환경의 CCE 진단 자동화 </b> 9월 23일</summary>
+  <summary>2024년 열두번째 - <b>AWS 리인벤트 2024 RE:CAP</b> 12월 19일</summary>
+
+  ### `발표 내용`
+   *  AWS 리인벤트 2024 RE:CAP - 이지영 (백패커)
+</details>
+
+<details>
+  <summary>2024년 열한번째 - <b>Security Compliance Engineer의 kubestronaut 도전기 </b> 11월 21일</summary>
+
+  ### `발표 내용`
+   *  도전 계기, kubestronaut 설명, 한계점, 취득 과정에서 배운점, 취득 팁! - 공지훈 (라포랩스)
+</details>
+
+<details>
+  <summary>2024년 열번째 - <b>AWS DevOps 환경에서의 CICD Security Best Practice / 운영환경의 CCE 진단 자동화 </b> 10월 21일</summary>
 
   ### `발표 내용`
    *  AWS DevOps 환경에서의 CICD Security Best..? Practice의 사례 알아보기 - 화이트햇 스쿨 2기 INFINITE 팀
