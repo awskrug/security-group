@@ -25,7 +25,7 @@
 </details>
 
 <details>
-  <summary>2025년 네 번째 - <b 오픈소스로 점검하는 AWS인프라  / DB 자격증명 개선 사례 공유</b> 4월 24일</summary>
+  <summary>2025년 네 번째 - <b> 오픈소스로 점검하는 AWS인프라  / DB 자격증명 개선 사례 공유</b> 4월 24일</summary>
 
   ### `발표 내용`
    * 오픈소스로 점검하는 AWS인프라 - 이지영 (Security Organizer)
