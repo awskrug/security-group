@@ -10,7 +10,46 @@
 ## 2025년
 
 <details>
-  <summary>2025년 첫번째 - <b>LLM Application Security + Amazon Bedrock 맛보기 / AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스!</b> 1월 23일</summary>
+  <summary>2025년 여섯 번째 - <b>AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기 / Bedrock Agent 삽질기, Null 부터 contributor가 되기까지</b> 6월 26일</summary>
+
+  ### `발표 내용`
+   * AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기 - 김수현 (중부대학교 학부생)
+   * Bedrock Agent 삽질기, Null 부터 contributor가 되기까지 - 권현준(우아한형제들)
+</details>
+
+<details>
+  <summary>2025년 다섯 번째 - <b>보안 소모임 네트워킹</b> 5월 21일</summary>
+
+  ### `발표 내용`
+   *  보안 소모임 네트워킹
+</details>
+
+<details>
+  <summary>2025년 네 번째 - <b 오픈소스로 점검하는 AWS인프라  / DB 자격증명 개선 사례 공유</b> 4월 24일</summary>
+
+  ### `발표 내용`
+   * 오픈소스로 점검하는 AWS인프라 - 이지영 (Security Organizer)
+   * DB 자격증명 개선 사례 공유 - 구경열 (Ktown4u DevOps)
+</details>
+
+<details>
+  <summary>2025년 세 번째 - <b>Differ: AWS bedrock을 이용한 PR 보안 검수 / 클라우드 환경에서 오픈소스를 활용해 ISMS 인증을 취득한 노하우</b> 3월 27일</summary>
+
+  ### `발표 내용`
+   *  Differ: AWS bedrock을 이용한 PR 보안 검수 - 홍성진 (샌드버드)
+   *  클라우드 환경에서 오픈소스를 활용해 ISMS 인증을 취득한 노하우(못다한 이야기를 더해서) - 공지훈 (라포랩스)
+</details>
+
+<details>
+  <summary>2025년 두 번째 - <b>Guardrails for Amazon Bedrock Workshop</b> 2월 20일</summary>
+
+  ### `발표 내용`
+   *  Guardrails for Amazon Bedrock Workshop(별도의 발표자료는 없습니다.) - AWS Security Organizers
+</details>
+
+
+<details>
+  <summary>2025년 첫 번째 - <b>LLM Application Security + Amazon Bedrock 맛보기 / AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스!</b> 1월 23일</summary>
 
   ### `발표 내용`
    *  LLM Application Security + Amazon Bedrock 맛보기 - 박현준 (네이버)
