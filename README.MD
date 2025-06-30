@@ -1,6 +1,6 @@
 # AWSKRUG #Security 모임 
 
-<img src="https://github.com/awskrug/awskrug-digital-assets/raw/master/gurumi/security/security.png" width="400"/>
+<img src="https://github.com/awskrug/awskrug-digital-assets/raw/master/security/security.png" width="400"/>
 
 # 모임 일시
   - 매월 1회 
