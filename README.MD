@@ -10,6 +10,14 @@
 ## 2025년
 
 <details>
+  <summary>2025년 일곱 번째 - <b>AWS WAF, 잘 사용하고 계신가요?</b> 7월 3126
+일</summary>
+
+  ### `발표 내용`
+   * AWS WAF, 잘 사용하고 계신가요?  실제 고객 사례로 보는 AWS WAF 룰 구성 시 고려 사항 발표자 - 펜타시큐리티 박준형님
+</details>
+
+<details>
   <summary>2025년 여섯 번째 - <b>AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기 / Bedrock Agent 삽질기, Null 부터 contributor가 되기까지</b> 6월 26일</summary>
 
   ### `발표 내용`
