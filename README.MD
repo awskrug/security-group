@@ -10,6 +10,15 @@
 ## 2025년
 
 <details>
+  <summary>2025년 여덟 번째 - <b>AWS Security 시작하기 / Prowler MCP 개발 및 AWS 취약점 점검 및 조치 자동화 아키텍처 구성기</b> 8월 21일</summary>
+  
+  ### `발표 내용`
+   * AWS Security 시작하기!!! : AWS 보안을 시작할 때 가장 처음 챙기게되는 것들에 대한 이야기를 나눠봅니다. - 이지영(놀유니버스, 보안 소모임 오거나이저)
+   * Prowler MCP 개발 및 AWS 취약점 점검 및 조치 자동화 아키텍처 구성기 - 김서연(화이트햇 스쿨 3기)
+</details>
+
+
+<details>
   <summary>2025년 일곱 번째 - <b>AWS WAF, 잘 사용하고 계신가요?</b> 7월 31
 일</summary>
 
