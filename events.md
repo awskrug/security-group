@@ -152,7 +152,7 @@ navorder: 1
 #### 9월 21일
 - Security Hub 어디까지 써봤니?
   - 발표자: 김대곤(AWS)
-  - [발표자료](/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf0
+  - [발표자료](/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf)
 
 
 #### 8월 17일
