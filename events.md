@@ -13,7 +13,7 @@ navorder: 1
   - 발표자: 이지영(놀유니버스, 보안 소모임 오거나이저) 
 - Prowler MCP 개발 및 AWS 취약점 점검 및 조치 자동화 아키텍처 구성기
   - 발표자: 김서연(화이트햇 스쿨 3기)
-  - [발표자료](/files/AWSKRUG_2025_08_김서연-AWSKRUG_PROWLER_MCP.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_08_김서연-AWSKRUG_PROWLER_MCP.pdf)
 
 #### 7월 31일
 - AWS WAF, 잘 사용하고 계신가요? 실제 고객 사례로 보는 AWS WAF 룰 구성 시 고려 사항발표자
@@ -23,10 +23,10 @@ navorder: 1
 #### 6월 26일
 - AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기
   - 김수현 (중부대학교 학부생)
-  - [발표자료](/files/AWSKRUG_2025_06_김수현-AWSKRUG%20Supply%20Chain%20Defender.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_06_김수현-AWSKRUG%20Supply%20Chain%20Defender.pdf)
 - Bedrock Agent 삽질기, Null 부터 contributor가 되기까지
   - 권현준(우아한형제들)
-  - [발표자료](/files/AWSKRUG_2025_06_권현준-Bedrock%20Agent%20삽질기!%20Null부터%20contributor가%20되기까지.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_06_권현준-Bedrock%20Agent%20삽질기!%20Null부터%20contributor가%20되기까지.pdf)
 
 #### 5월 21일
 - 보안 소모임 네트워킹 이벤트
@@ -34,18 +34,18 @@ navorder: 1
 #### 4월 24일
 - 오픈소스로 점검하는 AWS인프라
   - 발표자: 이지영 (Security Organizer)
-  - [발표자료](/files/AWSKRUG_2025_04_이지영_PROWLER_SERVICE_SCREENER.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_04_이지영_PROWLER_SERVICE_SCREENER.pdf)
 - DB 자격증명 개선 사례 공유
   - 발표자: 구경열 (Ktown4u DevOps)
-  - [발표자료](/files/AWSKRUG_2025_04_구경열-DB%20자격증명%20개선사례-제출용.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_04_구경열-DB%20자격증명%20개선사례-제출용.pdf)
 
 #### 3월 27일
 - Differ: AWS bedrock을 이용한 PR 보안 검수
   - 발표자: 홍성진 (샌드버드)
-  - [발표자료](/files/AWSKRUG_2025_03_홍성진-Differ%20-%20LLM을%20이용한%20코드%20변화%20보안%20검수%20홍성진.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_03_홍성진-Differ%20-%20LLM을%20이용한%20코드%20변화%20보안%20검수%20홍성진.pdf)
 - 클라우드 환경에서 오픈소스를 활용해 ISMS 인증을 취득한 노하우(못다한 이야기를 더해서)
   - 발표자: 공지훈 (라포랩스)
-  - [발표자료](/files/AWSKRUG_2025_03_공지훈-클라우드%20환경에서%20오픈소스를%20활용해%20ISMS%20인증을%20취득한%20노하우(못다한%20이야기를%20더해서).pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_03_공지훈-클라우드%20환경에서%20오픈소스를%20활용해%20ISMS%20인증을%20취득한%20노하우(못다한%20이야기를%20더해서).pdf)
 
 #### 2월 20일
 - Guardrails for Amazon Bedrock Workshop 실습
@@ -54,10 +54,10 @@ navorder: 1
 #### 1월 23일
 - LLM Application Security + Amazon Bedrock 맛보기
   - 발표자: 박현준 (네이버)
-  - [발표자료](/files/AWSKRUG_2025_01_Security_LLM.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_01_Security_LLM.pdf)
 - AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스!
   - 발표자: 홍성진 (샌드버드)
-  - [발표자료](/files/AWSKRUG_2025_01_AWS%20SECURITY%20101.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_01_AWS%20SECURITY%20101.pdf)
 
 
 ## 2024년
@@ -65,30 +65,30 @@ navorder: 1
 #### 12월 19일
 - AWS 리인벤트 2024 RE:CAP
   - 발표자: 이지영 (백패커)
-  - [발표자료](/files/AWSKRUG_2024_12_AWS%20RECAP.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_12_AWS%20RECAP.pdf)
 
 #### 11월 21일
 - 도전 계기, kubestronaut 설명, 한계점, 취득 과정에서 배운점, 취득 팁!
   - 발표자: 공지훈 (라포랩스)
-  - [발표자료](/files/AWSKRUG_2024_11_KUBEASTRONUT.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_11_KUBEASTRONUT.pdf)
 
 #### 10월 21일
 - AWS DevOps 환경에서의 CICD Security Best..? Practice의 사례 알아보기
   - 발표자: 화이트햇 스쿨 2기 INFINITE 팀
-  - [발표자료](/files/AWSKRUG_2024_10_AWS_DevOps_CICD_Security%20Best_Practice.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_10_AWS_DevOps_CICD_Security%20Best_Practice.pdf)
 - VPC Endpoint 를 활용한 세상 하찮은 cce 진단 자동화 사례 알아보기
   - 발표자: 권현준 (우아한 형제들)
-  - [발표자료](/files/AWSKRUG_2024_10_CCE_SECURITY_CHECK_AUTOMATION_WITH_VPC%20Endpoint.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_10_CCE_SECURITY_CHECK_AUTOMATION_WITH_VPC%20Endpoint.pdf)
 
 #### 9월 23일
 - 비싸지만 AWS Verify Access를 사용할 수밖에 없었던 비하인드 스토리
   - 발표자: 씬커 (AWSKRUG)
-  - [발표자료](/files/AWSKRUG_2024_09_VERIFIED_ACCESS.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_09_VERIFIED_ACCESS.pdf)
 
 #### 8월 29일
 - AWS 환경에서의 보안 로그 통합의 Security Lake를 구성하고 정보보호 팀 에서의 활용방안으로의 GenAI 프로세스의 연결방안 알아보기
   - 발표자: 한현상(AWS)
-  - [발표자료](/files/AWSKRUG_2024_08_SecurityLake_UseCase_with%20GenAI.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_08_SecurityLake_UseCase_with%20GenAI.pdf)
 
 #### 7월 25일
 - IAM 핸즈온 워크샵
@@ -97,35 +97,35 @@ navorder: 1
 #### 6월 27일
 - 이 3rd-party는 왜 필요할까
   - 발표자: 김진복 (flex)
-  - [발표자료](/files/AWSKRUG_2024_06_CASE_FLEX.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_FLEX.pdf)
 - SessionManager 로 서버 접근 솔루션 비용 절약하기 / RunCommand 로 취약점 점검 스크립트 실행하기
   - 발표자: 이금춘 (하나투어)
-  - [발표자료](/files/AWSKRUG_2024_06_CASE_AUTOMATION.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_AUTOMATION.pdf)
 - GWS 보안기능(CAA / GCPW) 소개 / 키클락 소개 & 키클락을 통한 AWS 접근관리
   - 발표자: 공지훈 (라포랩스)
-  - [발표자료](/files/AWSKRUG_2024_06_CASE_ZEROTRUST.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_ZEROTRUST.pdf)
 - CrowdStrike를 활용한 엔드포인트 보안 아키텍처
   - 발표자: 늑대양0 (AWSKRUG)
 
 #### 5월 23일
 - AWS WAF 실전도입 101
   - 발표자: 이지영 (백패커)
-  - [발표자료](/files/AWSKRUG_2024_05_AWSWAF.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_05_AWSWAF.pdf)
 
 #### 4월 25일
 - AWS Native Service를 이용한 보안 관제 방안 제시
   - 발표자: 정하윤 (AWS)
-  - [발표자료](/files/AWSKRUG_2024_04_AWS_Incidents.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_04_AWS_Incidents.pdf)
 
 #### 3월 28일
 - Credntial 살펴보기
   - 발표자: 김동현 (Cremit)
-  - [발표자료](/files/AWSKRUG_2024_03_Credential.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_03_Credential.pdf)
 
 #### 2월 15일
 - 워크로드에 역할을 부여하는 삼총사 IMDS, IRSA, Pod Identity에 대해 깊이 알아보고 어떻게 보안을 적용하면 좋을지 살펴봅니다.
   - 발표자: 천강민 (카카오뱅크)
-  - [발표자료](/files/AWSKRUG_2024_02_EKS_ROLE_MANAGEMENT.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_02_EKS_ROLE_MANAGEMENT.pdf)
 
 #### 1월 18일
 - AWS CI / CD에 Sonarqube SAST 적용 핸즈온
@@ -136,77 +136,77 @@ navorder: 1
 #### 12월 14일
 - AWS WAFv2 최대한 활용하기
   - 발표자: 씬커
-  - [발표자료](/files/AWSKRUG_2023_12_AWS_WAF.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_12_AWS_WAF.pdf)
 
 #### 11월 16일
 - AWS Security Lake & Next Step: AWS 리소스 구성 시각화(AWS CONFIG / QUICKSIGHT 활용)
   - 발표자: 한태경(AWS)
-  - [발표자료](/files/AWSKRUG_2023_11_Security-resource-visualization.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_11_Security-resource-visualization.pdf)
 
 
 #### 10월 20일
 - AWS 의 Security Lake의 구성방안과 그 이후 고려사항
   - 발표자: 한현상(AWS)
-  - [발표자료](/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf)
 
 #### 9월 21일
 - Security Hub 어디까지 써봤니?
   - 발표자: 김대곤(AWS)
-  - [발표자료](/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf)
 
 
 #### 8월 17일
 - AWS Secret Manager & IAM Role Anywhere UseCase
   - 발표자: 신동수(AWS)
-  - [발표자료](/files/AWSKRUG_2023_08_ROLESANYWHERE.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_08_ROLESANYWHERE.pdf)
 - Okta로 AWS Multi-Account 환경 관리하기
   - 발표자: Tony (AWS 보안소모임 유저)
-  - [발표자료](/files/AWSKRUG_2023_08_OKTA.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_08_OKTA.pdf)
 
 
 #### 7월 19일
 - 2023 re:Inforce recap(w/ New Service Update)
   - 발표자: 신은수(AWS)
-  - [발표자료](/files/AWSKRUG_2023_07_re-Inforce_recap.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_07_re-Inforce_recap.pdf)
 
 
 #### 6월 23일
 - 오픈소스 접근제어 솔루션인 teleport 도입 검토 후기 및 고찰
   - 발표자: Jin
-  - [발표자료](/files/AWSKRUG_2023_06_teleport.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_06_teleport.pdf)
 - AWS Native 서비스를 이용한 망분리 환경 구축/운영 노하우와 한계
   - 발표자: 씬커
-  - [발표자료](/files/AWSKRUG_2023_06_network_split.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_06_network_split.pdf)
 
 
 #### 5월 31일
 - 클라우드 환경에서의 컴플라이언스 표준화 사례 - “NIST CSF” 를 활용한 클라우드에서의 표준 운영 방안 전략
   - 발표자: 장현호(AWS 보안소모임 오거나이저)
-  - [발표자료](/files/AWSKRUG_2023_05_Cloud%20Compliance.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_05_Cloud%20Compliance.pdf)
 
 #### 4월 20일
 - EKS Runtime Security - Falco를 중심으로
   - 발표자: 이지영(백패커)
-  - [발표자료](/files/AWSKRUG_2023_04_falco.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_04_falco.pdf)
 
 
 #### 3월 23일
 - Prowler 오픈소스 소개
   - 발표자: 최재욱(AWS)
-  - [발표자료](/files/AWSKRUG_2023_03_Prowler.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_03_Prowler.pdf)
 
 #### 2월 22일
 - AWS MAICE
   - 발표자: 천강민(카카오뱅크)
-  - [발표자료](/files/AWSKRUG_2023_02_MACIE_KAKAOBANK.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_02_MACIE_KAKAOBANK.pdf)
 - AWS NETWORK FIREWALL
   - 박병화(AWS)
-  - [발표자료](/files/AWSKRUG_2023_02_AWS%20Network%20Firewall.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_02_AWS%20Network%20Firewall.pdf)
 
 #### 1월 26일
 - AWS Config 이해
   - 발표자: 한현상(AWS)
-  - [발표자료](/files/AWSKRUG_2023_01_AWS%20Config.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_01_AWS%20Config.pdf)
 - AWS Config Operation with Lambda
   - 발표자: 이종민(AWS)
 
