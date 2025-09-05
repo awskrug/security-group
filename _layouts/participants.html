@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+<main class="my-4">
+    <div class="container">
+        <h1 class="display-5">{{ title }}</h1>
+        {{ content }}
+        {% if site.data.participants %}
+        <hr class="my-4">
+        {% assign groups = site.data.participants.groups %}
+        {% for group in groups %}
+        {% if group.title %}
+        <h5 class="fw-normal">{{ group.title }}</h5>
+        {% endif %}
+        {% if group.columns %}
+        {% assign div = ' id="roster"' %}
+        {% else %}
+        {% assign div = '' %}
+        {% endif %}
+        <div {{ div }}>
+            <ul class="list-unstyled">
+                {% if group.sort %}
+                {% assign members = group.members | sort_natural: 'name' %}
+                {% else %}
+                {% assign members = group.members %}
+                {% endif %}
+                {% for member in members %}
+                {% assign full = member.name | append: ' ' | append: member.surname %}
+                {% assign affil = member.affil %}
+                {% if member.email %}
+                <li><a href="mailto:{{ member.email }}">{{ full }}</a> <small class="text-muted">{{ affil }}</small></li>
+                {% else %}
+                <li>{{ full }} <small class="text-muted">{{ affil }}</small></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+        {% endif %}
+    </div>
+</main>
+
+{% include footer.html %}

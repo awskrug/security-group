@@ -1,0 +1,20 @@
+.leaflet-container {
+  font-family: "Inter", var(--bs-font-sans-serif);
+  font-size: 0.8rem;
+}
+
+.leaflet-control-attribution {
+  display: none;
+}
+
+.leaflet-control-layers-toggle {
+  background-image: url(../img/layers.png);
+}
+
+.leaflet-retina .leaflet-control-layers-toggle {
+  background-image: url(../img/layers-2x.png);
+}
+
+.leaflet-default-icon-path {
+  background-image: url(../img/marker-icon.png);
+}

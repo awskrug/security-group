@@ -1,0 +1,208 @@
+a {
+  color: $a_color;
+  text-decoration: none;
+
+  &:hover {
+    color: $a_hover;
+  }
+}
+
+.accordion-button {
+  color: inherit;
+  background-color: $accordion-button_bg;
+
+  &:focus {
+    box-shadow: none;
+  }
+
+  &:not(.collapsed) {
+    background-color: $accordion-button_bg;
+    box-shadow: none;
+    color: inherit;
+  }
+}
+
+.accordion-item {
+  border-color: $accordion-item_border;
+  border-width: 0.15rem;
+  color: inherit;
+  background-color: transparent;
+}
+
+.alert-primary {
+  background-color: $alert-primary_bg;
+  border-color: transparent !important;
+  color: inherit;
+}
+
+body {
+  background-color: $body_bg;
+  color: $body_color;
+  font-family: "Inter", var(--bs-font-sans-serif);
+  font-size: 1.15rem;
+}
+
+.btn-close:focus {
+  box-shadow: none;
+}
+
+.btn-outline-primary {
+  border-color: $btn-outline-primary_border !important;
+  color: $btn-outline-primary_color !important;
+
+  &:hover,
+  &:active,
+  &.active {
+    background-color: $btn-outline-primary_hover_bg !important;
+    color: $btn-outline-primary_hover_color !important;
+  }
+
+  &.disabled {
+    border-color: $btn-outline-primary_disabled_border !important;
+    color: $btn-outline-primary_disabled_color !important;
+  }
+}
+
+.btn-primary {
+  background-color: $btn-primary_bg !important;
+  border-color: transparent !important;
+  color: $btn-primary_color !important;
+
+  &:hover,
+  &:active,
+  &.active {
+    background-color: $btn-primary_hover !important;
+  }
+
+  &.disabled {
+    background-color: $btn-primary_disabled !important;
+  }
+}
+
+.btn-secondary {
+  background-color: $btn-secondary_bg !important;
+  border-color: transparent !important;
+  color: $btn-secondary_color !important;
+
+  &:hover,
+  &:active,
+  &.active {
+    background-color: $btn-secondary_hover !important;
+  }
+}
+
+caption {
+  color: $caption_color;
+}
+
+.card {
+  border-color: $card_border;
+  border-width: 0.15rem;
+  color: inherit;
+  background-color: transparent;
+}
+
+.card-footer,
+.card-header {
+  border-width: 0;
+  color: inherit;
+  background-color: $card-header_bg;
+}
+
+.card-body,
+.card-title {
+  color: inherit;
+}
+
+@for $level from 1 through 6 {
+  .display-#{$level} {
+    font-family: "Zilla Slab", var(--bs-font-sans-serif);
+  }
+}
+
+.dropdown-menu {
+  color: $dropdown-menu_color;
+  background-color: $dropdown-menu_bg;
+}
+
+.dropdown-item {
+  color: $dropdown-item_color;
+}
+
+.dropdown-item.active,
+.dropdown-item:active,
+.dropdown-item:focus,
+.dropdown-item:hover {
+  color: $dropdown-item_hover;
+  background-color: transparent;
+}
+
+.dropdown-item.disabled,
+.dropdown-item:disabled {
+  color: $dropdown-item_disabled;
+}
+
+.form-control {
+  color: $form-control_color;
+  background-color: $form-control_bg;
+  border: var(--bs-border-width) solid $form-control_border;
+}
+
+.form-control:focus {
+  color: $form-control_focus_color;
+  background-color: $form-control_focus_bg;
+  border-color: $form-control_focus_border;
+  box-shadow: 0 0 0 0.25rem $form-control_focus_shadow;
+}
+
+.form-control::-moz-placeholder,
+.form-control::placeholder {
+  color: $form-control_placeholder;
+}
+
+.invalid-feedback {
+  color: $invalid-feedback;
+}
+
+.lead {
+  font-size: 1.5rem;
+}
+
+.navbar-brand {
+  color: $navbar-brand_color;
+
+  &:hover {
+    color: $navbar-brand_hover;
+  }
+}
+
+.nav-link {
+  color: $nav-link_color;
+
+  &:hover {
+    color: $nav-link_hover;
+  }
+}
+
+svg {
+  fill: $svg_fill;
+}
+
+.table td {
+  border-color: $table_td_border;
+  border-width: 0 0 0.15rem 0;
+  color: inherit;
+  background-color: transparent;
+}
+
+.text-muted {
+  color: $text-muted_color !important;
+
+  a {
+    color: inherit;
+
+    &:hover {
+      color: $text-muted_hover;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% assign digit_bg = site.data.skin.digit.bg | default: 'gray-3' %}
+{% if site.home %}
+{% assign return = site.home | relative_url %}
+{% else %}
+{% assign return = '/' | relative_url %}
+{% endif %}
+
+<main>
+    <div class="container text-center">
+        {% assign span = 'class="h1 bg-' | append: digit_bg | append: ' color-gray-0 rounded" id="digit"' %}
+        <span {{ span }}>4</span>
+        <span {{ span }}>0</span>
+        <span {{ span }}>4</span>
+        <h1 class="display-5">{{ title }}</h1>
+        <p class="fs-5"><a href="{{ return }}">Return to the homepage</a></p>
+    </div>
+</main>

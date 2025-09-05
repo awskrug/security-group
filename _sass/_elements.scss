@@ -1,0 +1,46 @@
+#digit {
+  display: inline-block;
+  font-size: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  margin-top: 15%;
+  width: 6rem;
+
+  $sizes: (
+    576: 8,
+    768: 10,
+    992: 12,
+  );
+
+  @each $size, $size-value in $sizes {
+    @media (min-width: #{$size}px) {
+      font-size: #{$size-value}rem;
+      height: #{$size-value}rem;
+      line-height: #{$size-value}rem;
+      width: #{$size-value}rem;
+    }
+  }
+}
+
+#map {
+  height: 70vh;
+}
+
+#roster {
+  @media (min-width: 576px) {
+    column-count: 1;
+  }
+
+  @media (min-width: 768px) {
+    column-count: 2;
+  }
+
+  @media (min-width: 992px) {
+    column-count: 3;
+  }
+
+  div {
+    page-break-inside: avoid;
+    break-inside: avoid-column;
+  }
+}

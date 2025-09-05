@@ -1,0 +1,56 @@
+---
+---
+
+@import "fonts";
+@import "utilities";
+@import "elements";
+
+$a_color: var(--oc-{{ site.data.skin.a.color | default: 'blue-7' }});
+$a_hover: var(--oc-{{ site.data.skin.a.hover | default: 'blue-9' }});
+$accordion-button_bg: var(--oc-{{ site.data.skin.accordion-button.bg | default: 'gray-2' }});
+$accordion-item_border: var(--oc-{{ site.data.skin.accordion-item.border | default: 'gray-2' }});
+$alert-primary_bg: var(--oc-{{ site.data.skin.alert-primary.bg | default: 'blue-1' }});
+$body_bg: var(--oc-{{ site.data.skin.body.bg | default: 'gray-0' }});
+$body_color: var(--oc-{{ site.data.skin.body.color | default: 'gray-8' }});
+$btn-outline-primary_border: var(--oc-{{ site.data.skin.btn-outline-primary.border | default: 'blue-5' }});
+$btn-outline-primary_color: var(--oc-{{ site.data.skin.btn-outline-primary.color | default: 'blue-5' }});
+$btn-outline-primary_hover_bg: var(--oc-{{ site.data.skin.btn-outline-primary.hover.bg | default: 'blue-5' }});
+$btn-outline-primary_hover_color: var(--oc-{{ site.data.skin.btn-outline-primary.hover.color | default: 'gray-0' }});
+$btn-outline-primary_disabled_border: var(--oc-{{ site.data.skin.btn-outline-primary.disabled.border | default: 'blue-3' }});
+$btn-outline-primary_disabled_color: var(--oc-{{ site.data.skin.btn-outline-primary.disabled.color | default: 'blue-3' }});
+$btn-primary_bg: var(--oc-{{ site.data.skin.btn-primary.bg | default: 'blue-5' }});
+$btn-primary_color: var(--oc-{{ site.data.skin.btn-primary.color | default: 'gray-0' }});
+$btn-primary_hover: var(--oc-{{ site.data.skin.btn-primary.hover | default: 'blue-7' }});
+$btn-primary_disabled: var(--oc-{{ site.data.skin.btn-primary.disabled | default: 'blue-3' }});
+$btn-secondary_bg: var(--oc-{{ site.data.skin.btn-secondary.bg | default: 'gray-4' }});
+$btn-secondary_color: var(--oc-{{ site.data.skin.btn-secondary.color | default: 'gray-0' }});
+$btn-secondary_hover: var(--oc-{{ site.data.skin.btn-secondary.hover | default: 'gray-6' }});
+$caption_color: var(--oc-{{ site.data.skin.caption.color | default: 'gray-6' }});
+$card_border: var(--oc-{{ site.data.skin.card.border | default: 'gray-2' }});
+$card-header_bg: var(--oc-{{ site.data.skin.card-header.bg | default: 'gray-2' }});
+$dropdown-menu_bg: var(--oc-{{ site.data.skin.dropdown-menu.bg | default: 'gray-2' }});
+$dropdown-menu_color: var(--oc-{{ site.data.skin.dropdown-menu.color | default: 'gray-7' }});
+$dropdown-item_color: var(--oc-{{ site.data.skin.dropdown-item.color | default: 'gray-7' }});
+$dropdown-item_hover: var(--oc-{{ site.data.skin.dropdown-item.hover | default: 'gray-9' }});
+$dropdown-item_disabled: var(--oc-{{ site.data.skin.dropdown-item.disabled | default: 'gray-6' }});
+$form-control_bg: var(--oc-{{ site.data.skin.form-control.bg | default: 'gray-0' }});
+$form-control_color: var(--oc-{{ site.data.skin.form-control.color | default: 'gray-9' }});
+$form-control_border: var(--oc-{{ site.data.skin.form-control.border | default: 'gray-3' }});
+$form-control_focus_bg: var(--oc-{{ site.data.skin.form-control.focus.bg | default: 'gray-0' }});
+$form-control_focus_color: var(--oc-{{ site.data.skin.form-control.focus.color | default: 'gray-9' }});
+$form-control_focus_border: var(--oc-{{ site.data.skin.form-control.focus.border | default: 'blue-2' }});
+$form-control_focus_shadow: var(--oc-{{ site.data.skin.form-control.focus.shadow | default: 'blue-1' }});
+$form-control_placeholder: var(--oc-{{ site.data.skin.form-control | default: 'gray-6' }});
+$invalid-feedback: var(--oc-{{ site.data.skin.invalid-feedback | default: 'red-9' }});
+$navbar-brand_color: var(--oc-{{ site.data.skin.navbar-brand.color | default: 'gray-8' }});
+$navbar-brand_hover: var(--oc-{{ site.data.skin.navbar-brand.hover | default: 'gray-9' }});
+$nav-link_color: var(--oc-{{ site.data.skin.nav-link.color | default: 'gray-7' }});
+$nav-link_hover: var(--oc-{{ site.data.skin.nav-link.hover | default: 'gray-9' }});
+$svg_fill: var(--oc-{{ site.data.skin.svg.fill | default: 'gray-7' }});
+$table_td_border: var(--oc-{{ site.data.skin.table.td.border | default: 'gray-2' }});
+$text-muted_color: var(--oc-{{ site.data.skin.text-muted.color | default: 'gray-6' }});
+$text-muted_hover: var(--oc-{{ site.data.skin.text-muted.hover | default: 'gray-9' }});
+
+@import "overrides/bootstrap";
+@import "overrides/leaflet";
+@import "custom";
