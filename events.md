@@ -13,7 +13,7 @@ navorder: 1
   - 발표자: 이지영(놀유니버스, 보안 소모임 오거나이저) 
 - Prowler MCP 개발 및 AWS 취약점 점검 및 조치 자동화 아키텍처 구성기
   - 발표자: 김서연(화이트햇 스쿨 3기)
-  - [발표자료](/assets/files/AWSKRUG_2025_08_김서연-AWSKRUG_PROWLER_MCP.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_08_PROWLER_MCP.pdf)
 
 #### 7월 31일
 - AWS WAF, 잘 사용하고 계신가요? 실제 고객 사례로 보는 AWS WAF 룰 구성 시 고려 사항발표자
@@ -23,10 +23,10 @@ navorder: 1
 #### 6월 26일
 - AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기
   - 김수현 (중부대학교 학부생)
-  - [발표자료](/assets/files/AWSKRUG_2025_06_김수현-AWSKRUG_Supply_Chain_Defender.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_06_Supply_Chain_Defender.pdf)
 - Bedrock Agent 삽질기, Null 부터 contributor가 되기까지
   - 권현준(우아한형제들)
-  - [발표자료](/assets/files/AWSKRUG_2025_06_권현준-Bedrock_Agent_삽질기!_Null부터_contributor가_되기까지.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_06_Bedrock_Agent.pdf)
 
 #### 5월 21일
 - 보안 소모임 네트워킹 이벤트
@@ -34,18 +34,18 @@ navorder: 1
 #### 4월 24일
 - 오픈소스로 점검하는 AWS인프라
   - 발표자: 이지영 (Security Organizer)
-  - [발표자료](/assets/files/AWSKRUG_2025_04_이지영_PROWLER_SERVICE_SCREENER.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_04_PROWLER_SERVICE_SCREENER.pdf)
 - DB 자격증명 개선 사례 공유
   - 발표자: 구경열 (Ktown4u DevOps)
-  - [발표자료](/assets/files/AWSKRUG_2025_04_구경열-DB_자격증명_개선사례-제출용.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_04_DB_auth.pdf)
 
 #### 3월 27일
 - Differ: AWS bedrock을 이용한 PR 보안 검수
   - 발표자: 홍성진 (샌드버드)
-  - [발표자료](/assets/files/AWSKRUG_2025_03_홍성진-Differ_-_LLM을_이용한_코드_변화_보안_검수_홍성진.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_03_Differ.pdf)
 - 클라우드 환경에서 오픈소스를 활용해 ISMS 인증을 취득한 노하우(못다한 이야기를 더해서)
   - 발표자: 공지훈 (라포랩스)
-  - [발표자료](/assets/files/AWSKRUG_2025_03_공지훈-클라우드_환경에서_오픈소스를_활용해_ISMS_인증을_취득한_노하우(못다한_이야기를_더해서).pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_03_ISMS.pdf)
 
 #### 2월 20일
 - Guardrails for Amazon Bedrock Workshop 실습
