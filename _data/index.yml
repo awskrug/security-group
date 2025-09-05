@@ -10,3 +10,6 @@ buttons:
 - text: 발표자 신청하기
   url: https://forms.gle/xCU4EZeTdXGbknmh8
   disabled: false
+- text: AWS 한국 사용자모임
+  url: https://www.awskr.org/
+  disabled: false
