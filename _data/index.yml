@@ -1,6 +1,6 @@
 alerts:
-  - title: "안녕하세요!"
-    text: 9월 보안 소모임 신청이 시작되었습니다. <a href="https://www.meetup.com/awskrug/events/310846780/"> 신청 바로가기</a>
+  - title: "9월 보안 소모임 신청이 시작되었습니다."
+    text: <a href="https://www.meetup.com/awskrug/events/310846780/"> 신청 바로가기</a>
     color: green-1
 
 buttons:
