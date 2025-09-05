@@ -52,5 +52,4 @@ $text-muted_color: var(--oc-{{ site.data.skin.text-muted.color | default: 'gray-
 $text-muted_hover: var(--oc-{{ site.data.skin.text-muted.hover | default: 'gray-9' }});
 
 @import "overrides/bootstrap";
-@import "overrides/leaflet";
 @import "custom";

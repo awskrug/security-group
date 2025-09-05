@@ -114,12 +114,6 @@ caption {
   color: inherit;
 }
 
-@for $level from 1 through 6 {
-  .display-#{$level} {
-    font-family: "Zilla Slab", var(--bs-font-sans-serif);
-  }
-}
-
 .dropdown-menu {
   color: $dropdown-menu_color;
   background-color: $dropdown-menu_bg;
