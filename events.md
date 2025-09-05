@@ -1,7 +1,7 @@
 ---
-layout: program
+layout: page
 title: 지난 소모임
-description: Schedule of talks and activities
+description: KRUG 보안 소모임에서 있었던 발표자 정보와 발표자료 입니다.
 navorder: 1
 ---
 
