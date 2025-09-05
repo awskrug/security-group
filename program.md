@@ -8,120 +8,104 @@ navorder: 1
 
 ## 2025년
 
-- 2025년 여덟 번째(8월 21일)
-  - AWS Security 시작하기!!! : AWS 보안을 시작할 때 가장 처음 챙기게되는 것들에 대한 이야기를 나눠봅니다. - 이지영(놀유니버스, 보안 소모임 오거나이저) 
-  - Prowler MCP 개발 및 AWS 취약점 점검 및 조치 자동화 아키텍처 구성기 - 김서연(화이트햇 스쿨 3기) [발표자료](/files/AWSKRUG_2025_08_김서연-AWSKRUG_PROWLER_MCP.pdf)
+#### 8월 21일
+- AWS Security 시작하기!!! : AWS 보안을 시작할 때 가장 처음 챙기게되는 것들에 대한 이야기를 나눠봅니다.
+  - 발표자: 이지영(놀유니버스, 보안 소모임 오거나이저) 
+- Prowler MCP 개발 및 AWS 취약점 점검 및 조치 자동화 아키텍처 구성기
+  - 발표자: 김서연(화이트햇 스쿨 3기)
+  - [발표자료](/files/AWSKRUG_2025_08_김서연-AWSKRUG_PROWLER_MCP.pdf)
 
-<details>
-  <summary>2025년 일곱 번째 - <b>AWS WAF, 잘 사용하고 계신가요?</b> 7월 31
-일</summary>
-
-  ### `발표 내용`
-   * AWS WAF, 잘 사용하고 계신가요? 실제 고객 사례로 보는 AWS WAF 룰 구성 시 고려 사항발표자 - 펜타시큐리티 박준형님
-</details>
-
-<details>
-  <summary>2025년 여섯 번째 - <b>AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기 / Bedrock Agent 삽질기, Null 부터 contributor가 되기까지</b> 6월 26일</summary>
-
-  ### `발표 내용`
-   * AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기 - 김수현 (중부대학교 학부생)
-   * Bedrock Agent 삽질기, Null 부터 contributor가 되기까지 - 권현준(우아한형제들)
-</details>
-
-<details>
-  <summary>2025년 다섯 번째 - <b>보안 소모임 네트워킹</b> 5월 21일</summary>
-
-  ### `발표 내용`
-   *  보안 소모임 네트워킹
-</details>
-
-<details>
-  <summary>2025년 네 번째 - <b> 오픈소스로 점검하는 AWS인프라  / DB 자격증명 개선 사례 공유</b> 4월 24일</summary>
-
-  ### `발표 내용`
-   * 오픈소스로 점검하는 AWS인프라 - 이지영 (Security Organizer)
-   * DB 자격증명 개선 사례 공유 - 구경열 (Ktown4u DevOps)
-</details>
-
-<details>
-  <summary>2025년 세 번째 - <b>Differ: AWS bedrock을 이용한 PR 보안 검수 / 클라우드 환경에서 오픈소스를 활용해 ISMS 인증을 취득한 노하우</b> 3월 27일</summary>
-
-  ### `발표 내용`
-   *  Differ: AWS bedrock을 이용한 PR 보안 검수 - 홍성진 (샌드버드)
-   *  클라우드 환경에서 오픈소스를 활용해 ISMS 인증을 취득한 노하우(못다한 이야기를 더해서) - 공지훈 (라포랩스)
-</details>
-
-<details>
-  <summary>2025년 두 번째 - <b>Guardrails for Amazon Bedrock Workshop</b> 2월 20일</summary>
-
-  ### `발표 내용`
-   *  Guardrails for Amazon Bedrock Workshop(별도의 발표자료는 없습니다.) - AWS Security Organizers
-</details>
+#### 7월 31일
+- AWS WAF, 잘 사용하고 계신가요? 실제 고객 사례로 보는 AWS WAF 룰 구성 시 고려 사항발표자
+  - 발표자: 펜타시큐리티 박준형님
 
 
-<details>
-  <summary>2025년 첫 번째 - <b>LLM Application Security + Amazon Bedrock 맛보기 / AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스!</b> 1월 23일</summary>
+#### 6월 26일
+- AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기
+  - 김수현 (중부대학교 학부생)
+  - [발표자료](/files/AWSKRUG_2025_06_김수현-AWSKRUG%20Supply%20Chain%20Defender.pdf)
+- Bedrock Agent 삽질기, Null 부터 contributor가 되기까지
+  - 권현준(우아한형제들)
+  - [발표자료](/files/AWSKRUG_2025_06_권현준-Bedrock%20Agent%20삽질기!%20Null부터%20contributor가%20되기까지.pdf)
 
-  ### `발표 내용`
-   *  LLM Application Security + Amazon Bedrock 맛보기 - 박현준 (네이버)
-   *  AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스! - 홍성진 (샌드버드)
-</details>
+#### 5월 21일
+- 보안 소모임 네트워킹 이벤트
+
+#### 4월 24일
+- 오픈소스로 점검하는 AWS인프라
+  - 발표자: 이지영 (Security Organizer)
+  - [발표자료](/files/AWSKRUG_2025_04_이지영_PROWLER_SERVICE_SCREENER.pdf)
+- DB 자격증명 개선 사례 공유
+  - 발표자: 구경열 (Ktown4u DevOps)
+  - [발표자료](/files/AWSKRUG_2025_04_구경열-DB%20자격증명%20개선사례-제출용.pdf)
+
+#### 3월 27일
+- Differ: AWS bedrock을 이용한 PR 보안 검수
+  - 발표자: 홍성진 (샌드버드)
+  - [발표자료](/files/AWSKRUG_2025_03_홍성진-Differ%20-%20LLM을%20이용한%20코드%20변화%20보안%20검수%20홍성진.pdf)
+- 클라우드 환경에서 오픈소스를 활용해 ISMS 인증을 취득한 노하우(못다한 이야기를 더해서)
+  - 발표자: 공지훈 (라포랩스)
+  - [발표자료](/files/AWSKRUG_2025_03_공지훈-클라우드%20환경에서%20오픈소스를%20활용해%20ISMS%20인증을%20취득한%20노하우(못다한%20이야기를%20더해서).pdf)
+
+#### 2월 20일
+- Guardrails for Amazon Bedrock Workshop 실습
+  - 발표자: AWS Security Organizers(한현상, 이지영, 홍성진, 공지훈)
+
+#### 1월 23일
+- LLM Application Security + Amazon Bedrock 맛보기
+  - 발표자: 박현준 (네이버)
+  - [발표자료](/files/AWSKRUG_2025_01_Security_LLM.pdf)
+- AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스!
+  - 발표자: 홍성진 (샌드버드)
+  - [발표자료](/files/AWSKRUG_2025_01_AWS%20SECURITY%20101.pdf)
 
 
 ## 2024년
 
-<details>
-  <summary>2024년 열두번째 - <b>AWS 리인벤트 2024 RE:CAP</b> 12월 19일</summary>
+#### 12월 19일
+- AWS 리인벤트 2024 RE:CAP
+  - 발표자: 이지영 (백패커)
+  - [발표자료](/files/AWSKRUG_2024_12_AWS%20RECAP.pdf)
 
-  ### `발표 내용`
-   *  AWS 리인벤트 2024 RE:CAP - 이지영 (백패커)
-</details>
+#### 11월 21일
+- 도전 계기, kubestronaut 설명, 한계점, 취득 과정에서 배운점, 취득 팁!
+  - 발표자: 공지훈 (라포랩스)
+  - [발표자료](/files/AWSKRUG_2024_11_KUBEASTRONUT.pdf)
 
-<details>
-  <summary>2024년 열한번째 - <b>Security Compliance Engineer의 kubestronaut 도전기 </b> 11월 21일</summary>
+#### 10월 21일
+- AWS DevOps 환경에서의 CICD Security Best..? Practice의 사례 알아보기
+  - 발표자: 화이트햇 스쿨 2기 INFINITE 팀
+  - [발표자료](/files/AWSKRUG_2024_10_AWS_DevOps_CICD_Security%20Best_Practice.pdf)
+- VPC Endpoint 를 활용한 세상 하찮은 cce 진단 자동화 사례 알아보기
+  - 발표자: 권현준 (우아한 형제들)
+  - [발표자료](/files/AWSKRUG_2024_10_CCE_SECURITY_CHECK_AUTOMATION_WITH_VPC%20Endpoint.pdf)
 
-  ### `발표 내용`
-   *  도전 계기, kubestronaut 설명, 한계점, 취득 과정에서 배운점, 취득 팁! - 공지훈 (라포랩스)
-</details>
+#### 9월 23일
+- 비싸지만 AWS Verify Access를 사용할 수밖에 없었던 비하인드 스토리
+  - 발표자: 씬커 (AWSKRUG)
+  - [발표자료](/files/AWSKRUG_2024_09_VERIFIED_ACCESS.pdf)
 
-<details>
-  <summary>2024년 열번째 - <b>AWS DevOps 환경에서의 CICD Security Best Practice / 운영환경의 CCE 진단 자동화 </b> 10월 21일</summary>
+#### 8월 29일
+- AWS 환경에서의 보안 로그 통합의 Security Lake를 구성하고 정보보호 팀 에서의 활용방안으로의 GenAI 프로세스의 연결방안 알아보기
+  - 발표자: 한현상(AWS)
+  - [발표자료](/files/AWSKRUG_2024_08_SecurityLake_UseCase_with%20GenAI.pdf)
 
-  ### `발표 내용`
-   *  AWS DevOps 환경에서의 CICD Security Best..? Practice의 사례 알아보기 - 화이트햇 스쿨 2기 INFINITE 팀
-   *  VPC Endpoint 를 활용한 세상 하찮은 cce 진단 자동화 사례 알아보기 - 권현준 (우아한 형제들)
-</details>
+#### 7월 25일
+- IAM 핸즈온 워크샵
+  - 이지영 (백패커)
 
-<details>
-  <summary>2024년 아홉번째 -<b>왜 AWS Verify Access를 사용한 걸까?</b> 9월 23일</summary>
-
-  ### `발표 내용`
-   *  비싸지만 AWS Verify Access를 사용할 수밖에 없었던 비하인드 스토리 - 씬커 (AWSKRUG)
-</details>
-
-<details>
-  <summary>2024년 여덟번째 - <b>AWS Security Lake Use Case with GenAI</b> 8월 29일</summary>
-
-  ### `발표 내용`
-   *  AWS 환경에서의 보안 로그 통합의 Security Lake를 구성하고 정보보호 팀 에서의 활용방안으로의 GenAI 프로세스의 연결방안 알아보기 - 한현상(AWS)
-</details>
-
-<details>
-  <summary>2024년 일곱번째 - <b>IAM 핸즈온 워크샵</b> 7월 25일</summary>
-
-  ### `발표 내용`
-   *  IAM 핸즈온 워크샵 - 이지영 (백패커)
-
-</details>
-
-<details>
-  <summary>2024년 여섯번째 - <b>케이스 공유</b> 6월 27일</summary>
-
-  ### `발표 내용`
-   *  이 3rd-party는 왜 필요할까 - 김진복 (flex)
-   *  SessionManager 로 서버 접근 솔루션 비용 절약하기 / RunCommand 로 취약점 점검 스크립트 실행하기 - 이금춘 (하나투어)
-   *  GWS 보안기능(CAA / GCPW) 소개 / 키클락 소개 & 키클락을 통한 AWS 접근관리 - 공지훈 (라포랩스)
-   *  CrowdStrike를 활용한 엔드포인트 보안 아키텍처  - 늑대양0 (AWSKRUG)
+#### 6월 27일
+- 이 3rd-party는 왜 필요할까
+  - 발표자: 김진복 (flex)
+  - [발표자료](/files/AWSKRUG_2024_06_CASE_FLEX.pdf)
+- SessionManager 로 서버 접근 솔루션 비용 절약하기 / RunCommand 로 취약점 점검 스크립트 실행하기
+  - 발표자: 이금춘 (하나투어)
+  - [발표자료](/files/AWSKRUG_2024_06_CASE_AUTOMATION.pdf)
+- GWS 보안기능(CAA / GCPW) 소개 / 키클락 소개 & 키클락을 통한 AWS 접근관리
+  - 발표자: 공지훈 (라포랩스)
+  - [발표자료](/files/AWSKRUG_2024_06_CASE_ZEROTRUST.pdf)
+- CrowdStrike를 활용한 엔드포인트 보안 아키텍처
+  - 발표자: 늑대양0 (AWSKRUG)
 
 </details>
 
