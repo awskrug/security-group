@@ -107,7 +107,7 @@ navorder: 1
 - CrowdStrike를 활용한 엔드포인트 보안 아키텍처
   - 발표자: 늑대양0 (AWSKRUG)
 
-#### 5월 23일</summary>
+#### 5월 23일
 - AWS WAF 실전도입 101
   - 발표자: 이지영 (백패커)
   - [발표자료](/files/AWSKRUG_2024_05_AWSWAF.pdf)
