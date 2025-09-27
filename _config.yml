@@ -1,0 +1,23 @@
+title: KRUG 보안 소모임
+description: KRUG 보안 소모임 쉡사이트
+baseurl: /
+
+permalink: pretty
+
+home: /
+copyright: KRUG
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  

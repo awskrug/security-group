@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+{% assign index_bg = site.data.skin.index.bg  | default: 'gray-2' %}
+
+<div class="container">
+    {% assign alerts = site.data.index.alerts %}
+    {% for alert in alerts %}
+    {% assign classes = 'mt-4' %}
+    {% unless forloop.first %}
+    {% assign classes = 'mt-2' %}
+    {% endunless %}
+    {% assign color = alert.color | default: 'yellow-1' %}
+    <div class="{{ classes }}">
+        <div class="alert alert-primary bg-{{ color }} alert-dismissible m-0 fade show text-center small" role="alert">
+            <strong>{{ alert.title }}</strong>
+            <span>{{ alert.text }}</span>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<main class="my-4">
+    <div class="container px-5 py-3 bg-{{ index_bg }} rounded">
+        <h1 class="display-3">{{ title }}</h1>
+        <p class="lead">{{ description }}</p>
+        <hr class="my-4">
+        {{ content }}
+        {% if site.data.index.buttons %}
+        <div class="btn-group-lg mt-4 mb-3" role="group">
+            {% assign buttons = site.data.index.buttons %}
+            {% for button in buttons %}
+            {% assign classes = 'btn btn-primary d-block d-lg-inline-block my-lg-0 my-2' %}
+            {% unless forloop.last %}
+            {% assign classes = classes | append: ' me-lg-2' %}
+            {% endunless %}
+            {% if button.disabled %}
+            {% assign classes = classes | append: ' disabled' %}
+            {% assign a = '' %}
+            {% else %}
+            {% assign a = 'href="' | append: button.url | append: '"' %}
+            {% endif %}
+            <a {{ a }} type="button" class="{{ classes }}" target="_blank">{{ button.text | upcase }}</a>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</main>
+
+{% include footer.html %}

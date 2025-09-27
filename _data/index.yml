@@ -1,0 +1,15 @@
+#alerts:
+#  - title: "9월 보안 소모임 신청이 시작되었습니다."
+#    text: <a href="https://www.meetup.com/awskrug/events/310846780/"> 신청 바로가기</a>
+#    color: green-1
+
+buttons:
+- text: Meetup 바로가기
+  url: https://www.meetup.com/awskrug/
+  disabled: false
+- text: 발표자 신청하기
+  url: https://forms.gle/xCU4EZeTdXGbknmh8
+  disabled: false
+- text: AWS 한국 사용자모임
+  url: https://www.awskr.org/
+  disabled: false

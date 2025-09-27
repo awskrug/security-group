@@ -1,0 +1,6 @@
+{% assign year = site.time | date: '%Y' %}
+{% if site.copyright and site.copyright != '' %}
+<footer class="container mb-4">
+    <small class="text-muted">&copy; {{ year }} {{ site.copyright }}. All rights reserved.</small>
+</footer>
+{% endif %}
