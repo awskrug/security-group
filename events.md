@@ -11,10 +11,10 @@ navorder: 1
 #### 9월 25일
 - Amazon Q CLI를 사용한 보안 업무 효율화 사례 : Amazon Q CLI와 오픈소스 도구를 활용한 보안 자동화 구축 사례 공유
   - 발표자: 이지영(놀유니버스, 보안 소모임 오거나이저) 
-  - [발표자료](/assets/files/AWSKRUG_2025_09_Security_With_Amazon_Q_Developer_CLI.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_09_Security_With_Amazon_Q_Developer_CLI.pdf){:target="_blank"}
 - Amazon Q를 사용한 ML SecOps 구성 제안 : Amazon Q와 AWS API MCP Server를 활용하여 Security Finding을 분석 및 진단·IR하는 ML SecOps 구성 방안 제안
   - 발표자: 이찬우, 전명환(BOB 13 수료생)
-  - [발표자료](/assets/files/AWSKRUG_2025_09_Amazon_Q_SecOps_Use-case.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_09_Amazon_Q_SecOps_Use-case.pdf){:target="_blank"}
 
 #### 8월 21일
 - AWS Security 시작하기!!! : AWS 보안을 시작할 때 가장 처음 챙기게되는 것들에 대한 이야기를 나눠봅니다.
