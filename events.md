@@ -8,20 +8,30 @@ navorder: 1
 
 ## 2025년
 ----
+#### 10월 23일
+- AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스! (Part 2, 침해사고 예방)
+  - 발표자: 홍성진(보안 소모임 오거나이저) 
+  - [발표자료](/assets/files/AWSKRUG_2025_10_AWS_SECURITY_101_part2.pdf){:target="_blank"}
+- 현실성있는 AWS 보안 가이드라인 작성기 : 침해사고 사례 분석부터 가이드라인 및 체크리스트 작성까지
+  - 발표자: K-Shield 주니어 송지예(TEAM. IAM 절대지켜)
+  - [발표자료](/assets/files/AWSKRUG_2025_10_AWS_Security_Incident_based_guidelines_Team.IAM.pdf){:target="_blank"}{:target="_blank"}
+
+
+
 #### 9월 25일
 - Amazon Q CLI를 사용한 보안 업무 효율화 사례 : Amazon Q CLI와 오픈소스 도구를 활용한 보안 자동화 구축 사례 공유
   - 발표자: 이지영(놀유니버스, 보안 소모임 오거나이저) 
   - [발표자료](/assets/files/AWSKRUG_2025_09_Security_With_Amazon_Q_Developer_CLI.pdf){:target="_blank"}
 - Amazon Q를 사용한 ML SecOps 구성 제안 : Amazon Q와 AWS API MCP Server를 활용하여 Security Finding을 분석 및 진단·IR하는 ML SecOps 구성 방안 제안
   - 발표자: 이찬우, 전명환(BOB 13 수료생)
-  - [발표자료](/assets/files/AWSKRUG_2025_09_Amazon_Q_SecOps_Use-case.pdf){:target="_blank"}
+  - [발표자료](/assets/files/AWSKRUG_2025_09_Amazon_Q_SecOps_Use-case.pdf){:target="_blank"}{:target="_blank"}
 
 #### 8월 21일
 - AWS Security 시작하기!!! : AWS 보안을 시작할 때 가장 처음 챙기게되는 것들에 대한 이야기를 나눠봅니다.
   - 발표자: 이지영(놀유니버스, 보안 소모임 오거나이저) 
 - Prowler MCP 개발 및 AWS 취약점 점검 및 조치 자동화 아키텍처 구성기
   - 발표자: 김서연(화이트햇 스쿨 3기)
-  - [발표자료](/assets/files/AWSKRUG_2025_08_PROWLER_MCP.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_08_PROWLER_MCP.pdf){:target="_blank"}
 
 #### 7월 31일
 - AWS WAF, 잘 사용하고 계신가요? 실제 고객 사례로 보는 AWS WAF 룰 구성 시 고려 사항발표자
@@ -31,10 +41,10 @@ navorder: 1
 #### 6월 26일
 - AWS 초보의 도전: 패키지 저장소에 패키지 방화벽 API 연결해보기
   - 김수현 (중부대학교 학부생)
-  - [발표자료](/assets/files/AWSKRUG_2025_06_Supply_Chain_Defender.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_06_Supply_Chain_Defender.pdf){:target="_blank"}
 - Bedrock Agent 삽질기, Null 부터 contributor가 되기까지
   - 권현준(우아한형제들)
-  - [발표자료](/assets/files/AWSKRUG_2025_06_Bedrock_Agent.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_06_Bedrock_Agent.pdf){:target="_blank"}
 
 #### 5월 21일
 - 보안 소모임 네트워킹 이벤트
@@ -42,18 +52,18 @@ navorder: 1
 #### 4월 24일
 - 오픈소스로 점검하는 AWS인프라
   - 발표자: 이지영 (Security Organizer)
-  - [발표자료](/assets/files/AWSKRUG_2025_04_PROWLER_SERVICE_SCREENER.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_04_PROWLER_SERVICE_SCREENER.pdf){:target="_blank"}
 - DB 자격증명 개선 사례 공유
   - 발표자: 구경열 (Ktown4u DevOps)
-  - [발표자료](/assets/files/AWSKRUG_2025_04_DB_auth.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_04_DB_auth.pdf){:target="_blank"}
 
 #### 3월 27일
 - Differ: AWS bedrock을 이용한 PR 보안 검수
   - 발표자: 홍성진 (샌드버드)
-  - [발표자료](/assets/files/AWSKRUG_2025_03_Differ.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_03_Differ.pdf){:target="_blank"}
 - 클라우드 환경에서 오픈소스를 활용해 ISMS 인증을 취득한 노하우(못다한 이야기를 더해서)
   - 발표자: 공지훈 (라포랩스)
-  - [발표자료](/assets/files/AWSKRUG_2025_03_ISMS.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_03_ISMS.pdf){:target="_blank"}
 
 #### 2월 20일
 - Guardrails for Amazon Bedrock Workshop 실습
@@ -62,10 +72,10 @@ navorder: 1
 #### 1월 23일
 - LLM Application Security + Amazon Bedrock 맛보기
   - 발표자: 박현준 (네이버)
-  - [발표자료](/assets/files/AWSKRUG_2025_01_Security_LLM.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_01_Security_LLM.pdf){:target="_blank"}
 - AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스!
   - 발표자: 홍성진 (샌드버드)
-  - [발표자료](/assets/files/AWSKRUG_2025_01_AWS_SECURITY_101.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2025_01_AWS_SECURITY_101.pdf){:target="_blank"}
 
 
 ## 2024년
@@ -73,30 +83,30 @@ navorder: 1
 #### 12월 19일
 - AWS 리인벤트 2024 RE:CAP
   - 발표자: 이지영 (백패커)
-  - [발표자료](/assets/files/AWSKRUG_2024_12_AWS_RECAP.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_12_AWS_RECAP.pdf){:target="_blank"}
 
 #### 11월 21일
 - 도전 계기, kubestronaut 설명, 한계점, 취득 과정에서 배운점, 취득 팁!
   - 발표자: 공지훈 (라포랩스)
-  - [발표자료](/assets/files/AWSKRUG_2024_11_KUBEASTRONUT.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_11_KUBEASTRONUT.pdf){:target="_blank"}
 
 #### 10월 21일
 - AWS DevOps 환경에서의 CICD Security Best..? Practice의 사례 알아보기
   - 발표자: 화이트햇 스쿨 2기 INFINITE 팀
-  - [발표자료](/assets/files/AWSKRUG_2024_10_AWS_DevOps_CICD_Security_Best_Practice.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_10_AWS_DevOps_CICD_Security_Best_Practice.pdf){:target="_blank"}
 - VPC Endpoint 를 활용한 세상 하찮은 cce 진단 자동화 사례 알아보기
   - 발표자: 권현준 (우아한 형제들)
-  - [발표자료](/assets/files/AWSKRUG_2024_10_CCE_SECURITY_CHECK_AUTOMATION_WITH_VPC_Endpoint.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_10_CCE_SECURITY_CHECK_AUTOMATION_WITH_VPC_Endpoint.pdf){:target="_blank"}
 
 #### 9월 23일
 - 비싸지만 AWS Verify Access를 사용할 수밖에 없었던 비하인드 스토리
   - 발표자: 씬커 (AWSKRUG)
-  - [발표자료](/assets/files/AWSKRUG_2024_09_VERIFIED_ACCESS.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_09_VERIFIED_ACCESS.pdf){:target="_blank"}
 
 #### 8월 29일
 - AWS 환경에서의 보안 로그 통합의 Security Lake를 구성하고 정보보호 팀 에서의 활용방안으로의 GenAI 프로세스의 연결방안 알아보기
   - 발표자: 한현상(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2024_08_SecurityLake_UseCase_with_GenAI.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_08_SecurityLake_UseCase_with_GenAI.pdf){:target="_blank"}
 
 #### 7월 25일
 - IAM 핸즈온 워크샵
@@ -105,35 +115,35 @@ navorder: 1
 #### 6월 27일
 - 이 3rd-party는 왜 필요할까
   - 발표자: 김진복 (flex)
-  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_FLEX.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_FLEX.pdf){:target="_blank"}
 - SessionManager 로 서버 접근 솔루션 비용 절약하기 / RunCommand 로 취약점 점검 스크립트 실행하기
   - 발표자: 이금춘 (하나투어)
-  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_AUTOMATION.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_AUTOMATION.pdf){:target="_blank"}
 - GWS 보안기능(CAA / GCPW) 소개 / 키클락 소개 & 키클락을 통한 AWS 접근관리
   - 발표자: 공지훈 (라포랩스)
-  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_ZEROTRUST.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_06_CASE_ZEROTRUST.pdf){:target="_blank"}
 - CrowdStrike를 활용한 엔드포인트 보안 아키텍처
   - 발표자: 늑대양0 (AWSKRUG)
 
 #### 5월 23일
 - AWS WAF 실전도입 101
   - 발표자: 이지영 (백패커)
-  - [발표자료](/assets/files/AWSKRUG_2024_05_AWSWAF.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_05_AWSWAF.pdf){:target="_blank"}
 
 #### 4월 25일
 - AWS Native Service를 이용한 보안 관제 방안 제시
   - 발표자: 정하윤 (AWS)
-  - [발표자료](/assets/files/AWSKRUG_2024_04_AWS_Incidents.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_04_AWS_Incidents.pdf){:target="_blank"}
 
 #### 3월 28일
 - Credntial 살펴보기
   - 발표자: 김동현 (Cremit)
-  - [발표자료](/assets/files/AWSKRUG_2024_03_Credential.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_03_Credential.pdf){:target="_blank"}
 
 #### 2월 15일
 - 워크로드에 역할을 부여하는 삼총사 IMDS, IRSA, Pod Identity에 대해 깊이 알아보고 어떻게 보안을 적용하면 좋을지 살펴봅니다.
   - 발표자: 천강민 (카카오뱅크)
-  - [발표자료](/assets/files/AWSKRUG_2024_02_EKS_ROLE_MANAGEMENT.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2024_02_EKS_ROLE_MANAGEMENT.pdf){:target="_blank"}
 
 #### 1월 18일
 - AWS CI / CD에 Sonarqube SAST 적용 핸즈온
@@ -144,77 +154,77 @@ navorder: 1
 #### 12월 14일
 - AWS WAFv2 최대한 활용하기
   - 발표자: 씬커
-  - [발표자료](/assets/files/AWSKRUG_2023_12_AWS_WAF.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_12_AWS_WAF.pdf){:target="_blank"}
 
 #### 11월 16일
 - AWS Security Lake & Next Step: AWS 리소스 구성 시각화(AWS CONFIG / QUICKSIGHT 활용)
   - 발표자: 한태경(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2023_11_Security-resource-visualization.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_11_Security-resource-visualization.pdf){:target="_blank"}
 
 
 #### 10월 20일
 - AWS 의 Security Lake의 구성방안과 그 이후 고려사항
   - 발표자: 한현상(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf){:target="_blank"}
 
 #### 9월 21일
 - Security Hub 어디까지 써봤니?
   - 발표자: 김대곤(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_10_SecurityLake-UseCase.pdf){:target="_blank"}
 
 
 #### 8월 17일
 - AWS Secret Manager & IAM Role Anywhere UseCase
   - 발표자: 신동수(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2023_08_ROLESANYWHERE.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_08_ROLESANYWHERE.pdf){:target="_blank"}
 - Okta로 AWS Multi-Account 환경 관리하기
   - 발표자: Tony (AWS 보안소모임 유저)
-  - [발표자료](/assets/files/AWSKRUG_2023_08_OKTA.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_08_OKTA.pdf){:target="_blank"}
 
 
 #### 7월 19일
 - 2023 re:Inforce recap(w/ New Service Update)
   - 발표자: 신은수(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2023_07_re-Inforce_recap.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_07_re-Inforce_recap.pdf){:target="_blank"}
 
 
 #### 6월 23일
 - 오픈소스 접근제어 솔루션인 teleport 도입 검토 후기 및 고찰
   - 발표자: Jin
-  - [발표자료](/assets/files/AWSKRUG_2023_06_teleport.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_06_teleport.pdf){:target="_blank"}
 - AWS Native 서비스를 이용한 망분리 환경 구축/운영 노하우와 한계
   - 발표자: 씬커
-  - [발표자료](/assets/files/AWSKRUG_2023_06_network_split.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_06_network_split.pdf){:target="_blank"}
 
 
 #### 5월 31일
 - 클라우드 환경에서의 컴플라이언스 표준화 사례 - “NIST CSF” 를 활용한 클라우드에서의 표준 운영 방안 전략
   - 발표자: 장현호(AWS 보안소모임 오거나이저)
-  - [발표자료](/assets/files/AWSKRUG_2023_05_Cloud_Compliance.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_05_Cloud_Compliance.pdf){:target="_blank"}
 
 #### 4월 20일
 - EKS Runtime Security - Falco를 중심으로
   - 발표자: 이지영(백패커)
-  - [발표자료](/assets/files/AWSKRUG_2023_04_falco.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_04_falco.pdf){:target="_blank"}
 
 
 #### 3월 23일
 - Prowler 오픈소스 소개
   - 발표자: 최재욱(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2023_03_Prowler.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_03_Prowler.pdf){:target="_blank"}
 
 #### 2월 22일
 - AWS MAICE
   - 발표자: 천강민(카카오뱅크)
-  - [발표자료](/assets/files/AWSKRUG_2023_02_MACIE_KAKAOBANK.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_02_MACIE_KAKAOBANK.pdf){:target="_blank"}
 - AWS NETWORK FIREWALL
   - 박병화(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2023_02_AWS_Network_Firewall.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_02_AWS_Network_Firewall.pdf){:target="_blank"}
 
 #### 1월 26일
 - AWS Config 이해
   - 발표자: 한현상(AWS)
-  - [발표자료](/assets/files/AWSKRUG_2023_01_AWS_Config.pdf)
+  - [발표자료](/assets/files/AWSKRUG_2023_01_AWS_Config.pdf){:target="_blank"}
 - AWS Config Operation with Lambda
   - 발표자: 이종민(AWS)
 
