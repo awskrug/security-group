@@ -7,6 +7,19 @@ navorder: 1
 
 
 ## 2025년
+
+----
+#### 11월 28일
+- Control Tower로 시작하는 안전한 클라우드 여정
+  - Control Tower가 제공하는 Guardrails, Landing Zone 구성, IAM 통합 기능을 중심으로 보안팀&인프라팀이 어떻게 일관 된 거버넌스를 구축할 수 있는지 쉽고 흥미롭게 살펴봅니다.
+  - 발표자: 양보승(AWS Professional Service)
+  - [발표자료](/assets/files/AWSKRUG_2025_11_Start_your_secure_cloud_journey_with_AWS_Control_Tower.pdf){:target="_blank"}
+- 로그(log)의 모든 것
+  - AWS 서비스 로그의 라이프사이클 관리에 대한 내용을 공유합니다.
+  - 발표자: 씬커(금도원)
+  - [발표자료](/assets/files/AWSKRUG_2025_11_Everything_about_logs.pdf){:target="_blank"}{:target="_blank"}
+
+
 ----
 #### 10월 23일
 - AWS Security 101 시리즈: 함께 만들어봐요 안전한 서비스! (Part 2, 침해사고 예방)
