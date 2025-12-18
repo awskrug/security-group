@@ -11,7 +11,7 @@ navorder: 1
 - AWS re:Invent 2025 참관기 & recap
   - AWS re:Invent 참가한 경험과 re:Invent에서 공개된 보안 신규 서비스/기능들을 소개합니다.
   - 발표자: 홍성진(보안 소모임 오거나이저)
-  - [발표자료](/assets/files/AWSKRUG_2025_11_Start_your_secure_cloud_journey_with_AWS_Control_Tower.pdf){:target="_blank"}
+  - [발표자료](/assets/files/AWSKRUG_2025_12_re_Invent_recap-Security.pdf){:target="_blank"}
 
 ----
 #### 11월 28일
