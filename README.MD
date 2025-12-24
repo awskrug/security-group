@@ -2,14 +2,11 @@
 
 <img src="https://github.com/awskrug/awskrug-digital-assets/raw/master/security/security.png" width="400"/>
 
-AWS한국사용자모임(AWSKRUG)은 클라우드를 처음 접하는 초보자부터 숙련된 AWS 사용자까지 다양한 구성원이 참여하는 비영리 기술 커뮤니티입니다. 연간 100여 회에 달하는 지역별 및 관심 분야별 소모임 운영과 함께 AWS Community Day, AUSGCON 등 주요 행사를 통해 지식과 실무 경험을 활발히 나누고 있습니다.
+AWSKRUG Security 소모임 -클라우드 보안 전문가들이 모이는 커뮤니티
 
-그중에서도 보안소모임은 클라우드 보안 운영, 기획, 점검 등 AWS 보안에 대한 실무 노하우와 귀중한 경험을 공유하는 자리입니다. 
-
-2022년 12월에 1회를 시작으로 현재까지 매월 모임을 개최하고 있으며, 평균적으로 40여분이 꾸준히 참석하고 계십니다. 
-
-정말 많은 현업 보안 전문가분들이 꾸준히 함께해주신 덕분에, 어느새 한국에서 손에 꼽히는 보안 커뮤니티로 자리잡게 되었습니다. 
-
+AWS 보안 운영, 기획, 점검 등 실무 노하우를 공유하는 자리입니다.
+2022년 12월 시작 이후 매월 모임을 개최하며, 평균 50여명이 참석하는
+한국 대표 클라우드 보안 커뮤니티 입니다.
 
 # 모임 일시
 - 매월 1회 
@@ -18,4 +15,4 @@ AWS한국사용자모임(AWSKRUG)은 클라우드를 처음 접하는 초보자�
 - https://www.meetup.com/awskrug/events/
 
 # 이전 발표자료
-- https://awskrug.github.io/security-group/events/
+- https://www.awskr.org/groups/security/
